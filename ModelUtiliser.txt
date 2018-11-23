@@ -1,0 +1,1 @@
+dans lexo 3 on a utiliser le pattern Observer simple.
